@@ -5,7 +5,7 @@ Auteur: [TECH3](https://tech3.fr "TECH3.FR") - Twitter: [@TECH3_FR](https://www.
 
 Partenaires: 
 
-*[Hostmyservers](https://www.hostmyservers.fr)
+1*[Hostmyservers](https://www.hostmyservers.fr)
 *[Serveurperso.com](https://www.serveurperso.com)
 *[Kernelpanik](http://www.kernelpanik.fr)
 *[Erondror](http://www.erondror.fr)
