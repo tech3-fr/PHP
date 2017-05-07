@@ -1,4 +1,4 @@
-<?php
+<```php
 $_SERVER['REMOTE_ADDR'] = $_SERVER['HTTP_CF_CONNECTING_IP']; // On définit l'ip du client par rapport à l'ip utilisé dans le http
 $ip = $_SERVER['REMOTE_ADDR'] // On ajoute le tout dans une variable custom
 ?>
